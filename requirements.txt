@@ -1,0 +1,9 @@
+### GENERAL REQUIREMENTS
+1. The App displays countries flag and detailed information.
+2. Displays a list of all countries that can be filtered according to region / continent.
+3. Also displays a world map with clickable countries.
+4. When a country on the list / map is clicked the app shows the details of that country.
+
+### TESTABLE REQUIREMENTS
+## Interface
+1. 
